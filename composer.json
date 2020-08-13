@@ -1,13 +1,14 @@
 {
     "name": "weprovide/symfony-api-admin-recipe",
     "description": "Recipe for Symfony 4.4 with API Platform and Sonata Admin",
+    "homepage": "https://www.weprovide.com",
     "type": "project",
-    "license": "proprietary",
+    "license": "MIT",
     "require": {
         "php": "^7.2.31",
         "ext-ctype": "*",
         "ext-iconv": "*",
-        "api-platform/api-pack": "^2.5",
+        "api-platform/api-pack": "^1.2",
         "cweagans/composer-patches": "^1.6",
         "sensio/framework-extra-bundle": "^5.1",
         "sonata-project/admin-bundle": "^3.64",
